@@ -13,9 +13,11 @@ https://github.com/alexandremstf/pipebot/assets/22629772/87bc23d2-67ea-4235-9012
 https://github.com/alexandremstf/pipebot/assets/22629772/fb2d5bd6-8125-4ae6-8dfd-6daf67389394
 
 ### Simulação utilizando controle por campo vetorial artificial seguindo parede lateral
-https://github.com/alexandremstf/pipebot/assets/22629772/870417a7-bbe6-4bde-b6eb-193c00d5433d
+https://github.com/alexandremstf/pipebot/assets/22629772/47d2f30c-6424-47d2-90bf-155e973227d8
 
 ### Simulação utilizando controle por campo vetorial artificial no centro do corredor
-https://github.com/alexandremstf/pipebot/assets/22629772/3c6bdc20-696c-4274-b113-b68f88f29fcb
+https://github.com/alexandremstf/pipebot/assets/22629772/76e07908-3d8e-414e-aaeb-86987f49adf6
+
+
 
 
