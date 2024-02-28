@@ -12,10 +12,10 @@ https://github.com/alexandremstf/pipebot/assets/22629772/47d2f30c-6424-47d2-90bf
 https://github.com/alexandremstf/pipebot/assets/22629772/76e07908-3d8e-414e-aaeb-86987f49adf6
 
 ### Navigation using artificial vector field control following a lateral wall
-https://github.com/alexandremstf/pipebot/assets/22629772/87bc23d2-67ea-4235-9012-f78927d0fe42
+
 
 ### Navigation using artificial vector field control following corridor
-https://github.com/alexandremstf/pipebot/assets/22629772/9c8cfa5e-7bef-4200-b1c4-10e44ebc7cc2
+https://github.com/alexandremstf/pipebot/assets/22629772/f604e907-06ab-4b90-b60b-a27ffdd4d22e
 
 ### Experiment in a real environment with point cloud reconstruction
 https://github.com/alexandremstf/pipebot/assets/22629772/2c2f358b-9552-4d83-8791-4e459a44f0bc
