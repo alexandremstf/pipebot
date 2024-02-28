@@ -1,21 +1,21 @@
 # Pipebot
 
-Plataforma robótica para inspeção de tubulações com diâmetro de 14 polegadas ou mais, capaz de visualizar situações de anomalia usando câmeras e outros sensores. A composição do dispositivo proposto é principalmente de materiais de baixo custo, como peças de polímero impressas em 3D. A plataforma possui mecanismos de locomoção por meio de esteiras, que podem ser ajustados para superar condições específicas de cada tubulação. O software do robô utiliza o ROS (Robot Operating System), facilitando a implementação de funcionalidades autônomas e a possibilidade de identificação de anomalias. Este artigo apresenta a plataforma robótica, os resultados preliminares do projeto mecânico e eletrônico e o software embarcado no robô, demonstrando a viabilidade de produzir alternativas de baixo custo para inspeções de tubos industriais de diâmetros reduzidos.
+Robotic platform for inspecting pipelines with a diameter of 14 inches or larger, capable of visualizing anomaly situations using cameras and other sensors. The proposed device composition consists mainly of low-cost materials, such as 3D-printed polymer parts. The platform features locomotion mechanisms via tracks, which can be adjusted to overcome specific conditions of each pipeline. The robot's software utilizes the ROS (Robot Operating System), facilitating the implementation of autonomous functionalities and the possibility of anomaly identification. This article introduces the robotic platform, the preliminary results of the mechanical and electronic design, and the software embedded in the robot, demonstrating the feasibility of producing low-cost alternatives for inspecting industrial pipes of reduced diameters.
 
 
-### Primeiros testes de movimentação do robô
+### First robot movement tests
 https://github.com/alexandremstf/pipebot/assets/22629772/a624af9c-1e7d-47a7-9dfb-b7488cd09500
 
-### Navegação utilizando controle por campo vetorial artificial seguindo parede lateral
+### Navigation using artificial vector field control following a lateral wall
 https://github.com/alexandremstf/pipebot/assets/22629772/87bc23d2-67ea-4235-9012-f78927d0fe42
 
-### Simulação utilizando máquina de estados e do controle por campo vetorial artificial
+### Simulation using state machine and artificial vector field control
 https://github.com/alexandremstf/pipebot/assets/22629772/fb2d5bd6-8125-4ae6-8dfd-6daf67389394
 
-### Simulação utilizando controle por campo vetorial artificial seguindo parede lateral
+### Simulation using artificial vector field control following a lateral wall
 https://github.com/alexandremstf/pipebot/assets/22629772/47d2f30c-6424-47d2-90bf-155e973227d8
 
-### Simulação utilizando controle por campo vetorial artificial no centro do corredor
+### Simulation using artificial vector field control in the center of the corridor
 https://github.com/alexandremstf/pipebot/assets/22629772/76e07908-3d8e-414e-aaeb-86987f49adf6
 
 
