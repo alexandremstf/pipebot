@@ -11,11 +11,8 @@ https://github.com/alexandremstf/pipebot/assets/22629772/1c3d2e2e-daba-4ec6-8ee7
 ## Simulation using artificial vector field control in the center of the corridor
 https://github.com/alexandremstf/pipebot/assets/22629772/e8862fa9-8de9-448f-bd3d-77ad5c239047
 
-## Navigation using artificial vector field control following a lateral wall
-https://github.com/alexandremstf/pipebot/assets/22629772/46a5f7c6-990e-49f3-b0be-274c3e2c4a44
-
 ## Navigation using artificial vector field control following corridor
-https://github.com/alexandremstf/pipebot/assets/22629772/4ca4a8e5-4818-4b1a-9776-e019d2e556d9
+https://github.com/alexandremstf/pipebot/assets/22629772/7c15d129-4d07-4c83-9eae-770dc87ce4de
 
 ## Experiment in a real environment inside a pipe
 https://github.com/alexandremstf/pipebot/assets/22629772/a0f6513e-8be8-4b67-a492-6b7b0eb75d64
