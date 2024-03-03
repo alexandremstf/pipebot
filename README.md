@@ -21,4 +21,4 @@ https://github.com/alexandremstf/pipebot/assets/22629772/4ca4a8e5-4818-4b1a-9776
 https://github.com/alexandremstf/pipebot/assets/22629772/a0f6513e-8be8-4b67-a492-6b7b0eb75d64
 
 ## Experiment in a real environment with point cloud reconstruction
-https://github.com/alexandremstf/pipebot/assets/22629772/b8f18585-b377-42c9-8805-dc6807031e1d
+https://github.com/alexandremstf/pipebot/assets/22629772/14cfab4e-2c80-4888-b97e-eb65e779cb21
